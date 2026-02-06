@@ -1,0 +1,72 @@
+# Web Directory Discovery Wordlist (API-focused)
+# Lines starting with # are comments.
+
+# Base paths
+api
+api/v1
+api/v2
+api/v3
+api/v4
+api/latest
+api/public
+api/private
+api/internal
+api/external
+
+# Docs / schemas
+api/docs
+api/doc
+api/documentation
+api/swagger
+api/openapi
+swagger
+swagger-ui
+swagger-ui.html
+swagger.json
+openapi.json
+openapi.yaml
+openapi.yml
+redoc
+redocly
+schema
+schemas
+
+# GraphQL
+graphql
+graphql/playground
+graphql/console
+api/graphql
+
+# Status / health
+status
+health
+healthz
+ready
+readyz
+live
+livez
+metrics
+version
+
+# Auth / tokens
+api/auth
+api/login
+api/logout
+api/token
+api/tokens
+api/refresh
+api/keys
+api/key
+api/clients
+api/client
+
+# Common endpoints
+api/users
+api/user
+api/accounts
+api/account
+api/profile
+api/search
+api/admin
+api/config
+api/settings

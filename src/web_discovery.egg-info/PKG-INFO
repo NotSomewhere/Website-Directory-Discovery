@@ -1,0 +1,43 @@
+Metadata-Version: 2.4
+Name: web-discovery
+Version: 0.1.0
+Summary: Simple website directory discovery (WDD) CLI
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# Web Directory Discovery (WDD)
+
+Simple CLI for directory discovery against a target site.
+
+## Install (editable)
+
+```bash
+python -m pip install -e .
+```
+
+## Usage
+
+```bash
+wdd google.com wordlist.txt
+```
+
+### Example
+
+```bash
+wdd google.com test.txt
+```
+
+Possible output:
+
+```
+found: https://google.com/login (302)
+```
+
+## Options
+
+- `-o, --output` write found URLs to a file
+- `--status` comma-separated status codes treated as found
+- `--timeout` request timeout (seconds)
+- `--delay` delay between requests (seconds)
+- `--user-agent` set a custom User-Agent

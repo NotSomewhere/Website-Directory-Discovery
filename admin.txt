@@ -1,0 +1,42 @@
+# Web Directory Discovery Wordlist (Admin-focused)
+# Lines starting with # are comments.
+
+admin
+administrator
+admin/login
+admin/dashboard
+adminpanel
+admin-console
+admin-console/login
+cpanel
+panel
+console
+manage
+management
+manager
+sys
+system
+staff
+moderator
+moderation
+backend
+backoffice
+controlpanel
+control-panel
+cms
+
+# Admin auth
+admin/signin
+admin/signup
+admin/auth
+admin/password
+admin/reset
+
+# Admin tools
+admin/users
+admin/roles
+admin/permissions
+admin/settings
+admin/config
+admin/logs
+admin/metrics

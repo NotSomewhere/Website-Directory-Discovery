@@ -1,0 +1,168 @@
+# Web Directory Discovery Wordlist (balanced)
+# Lines starting with # are comments.
+
+# Common files
+robots.txt
+sitemap.xml
+security.txt
+humans.txt
+ads.txt
+app-ads.txt
+favicon.ico
+manifest.json
+site.webmanifest
+opensearch.xml
+
+# Auth / account
+login
+logout
+signin
+signup
+register
+reset
+forgot
+password
+account
+accounts
+profile
+preferences
+settings
+
+# Admin / panels
+admin
+administrator
+admin/login
+admin/dashboard
+adminpanel
+cpanel
+panel
+console
+manage
+management
+sys
+staff
+moderator
+moderation
+
+# API
+api
+api/v1
+api/v2
+api/v3
+api/docs
+api/swagger
+api/openapi
+swagger
+swagger.json
+openapi.json
+graphql
+graphql/playground
+api/graphql
+
+# Status / health
+status
+health
+healthz
+ready
+readyz
+live
+livez
+metrics
+version
+
+# Docs / legal
+docs
+documentation
+help
+support
+faq
+terms
+privacy
+legal
+
+# Static / assets
+static
+assets
+public
+files
+uploads
+media
+images
+img
+css
+js
+fonts
+
+# Backups / dumps
+backup
+backups
+db
+database
+dump
+dumps
+sql
+export
+exports
+archive
+archives
+
+# Config / env
+.env
+.env.local
+.env.production
+.env.development
+config
+configs
+configuration
+settings.json
+appsettings.json
+
+# Logs / debug
+log
+logs
+debug
+trace
+errors
+
+# CMS / platforms
+wp-admin
+wp-login.php
+wordpress
+wp-content
+wp-includes
+joomla
+drupal
+shop
+shopify
+magento
+
+# Common endpoints
+index
+home
+about
+contact
+search
+rss
+feed
+news
+blog
+posts
+
+# Test / dev
+test
+tests
+testing
+dev
+development
+staging
+qa
+sandbox
+beta
+
+# Misc common
+old
+legacy
+backup.zip
+backup.tar.gz
+site.zip
+site.tar.gz

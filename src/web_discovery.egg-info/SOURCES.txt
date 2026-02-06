@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/wdd/__init__.py
+src/wdd/cli.py
+src/web_discovery.egg-info/PKG-INFO
+src/web_discovery.egg-info/SOURCES.txt
+src/web_discovery.egg-info/dependency_links.txt
+src/web_discovery.egg-info/entry_points.txt
+src/web_discovery.egg-info/top_level.txt
