@@ -48,9 +48,9 @@ wdd https://example.com common.txt
 Output example:
 
 ```
-[200] https://example.com/admin
-[302] https://example.com/login
-[403] https://example.com/dashboard
+found: https://example.com/admin (200)
+found: https://example.com/login (302)
+found: https://example.com/dashboard (403)
 ```
 
 ## ⚙️ Options
@@ -113,4 +113,5 @@ See the LICENSE file for more details.
 ## ⭐ Support
 
 If you find this project useful, consider giving it a ⭐ on GitHub.
+
 
